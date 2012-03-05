@@ -1,0 +1,543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/tmp/subl stdin r9FOHp.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/plugin.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n## Example\n\n```javascript\nvar beanie = require('beanie');\n\nbeanie.\nloader().\nparams({\n	'hostname': 'mysite.com',\n	'beanpoll-twilio': {\n		accountSid: 'SID HERE',\n		auth_token: ''\n		phoneNumbers: {\n			'craig': '+16269239971',\n			'john':  '+11643280333'\n		}\n	}\n})\nrequire('beanpoll-twilio').\nrequire('my-custom-plugin').\nload();\n```\n\n```javascript\n\n```",
+			"file": "README.md",
+			"file_size": 350,
+			"file_write_time": 1330730497000000,
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/craig/Dropbox/Developer/Public/thyme/lib/index.js",
+		"/Users/craig/Dropbox/Developer/Public/thyme/lib/beans/thyme.core/job.js",
+		"/tmp/subl stdin w7F8nl.txt",
+		"/Volumes/minimac/Users/craig/Dropbox/Developer/Jobs/Spice/private/teamdigest/lib/front/publish/js/main.js",
+		"/Volumes/minimac/Users/craig/Dropbox/Developer/Jobs/Spice/private/teamdigest/lib/front/publish/js/bean.js",
+		"/Users/craigcondon/glow.png",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/fig/lib/core/views/concrete.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/fig/lib/core/views/abstract.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/fig/lib/core/views/model.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/fig/lib/core/views/template.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/spice.io/beans/groups.part.saved.core/delegates.js",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/node_modules/bean.http/plugin/beans/http.gateway/index.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/spice.io/beans/groups.part.saved.core/index.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/spice.io/beans/groups.part.saved.subscription.email/index.js",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/shared/beans/teamdigest.creation/index.js",
+		"/Volumes/minimac/Users/craig/Dropbox/Developer/Jobs/Spice/private/teamdigest/package.json",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/shared/beans/teamdigest.core/index.js",
+		"/Users/craig/Desktop/global-lock.png",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/web/views/tpl/digest.mu",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/shared/beans/teamdigest.digest/views.js",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/shared/beans/teamdigest.bookmarklet/index.js",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/node_modules/malt/lib/core/models/item.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/spice.io/beans/groups.core/index.js",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/shared/beans/teamdigest.digest/index.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/leche.spice.io/shared/beans/spice.io.core/models.js",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/shared/beans/teamdigest.creation/views.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/leche.spice.io/shared/beans/connect.core/index.js",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/web/views/tpl/creation.mu",
+		"/tmp/subl stdin D0Hull.txt",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/node_modules/malt/lib/core/models/remote.js",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/node_modules/malt/lib/core/models/abstract.js",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/node_modules/malt/lib/core/models/concrete.js",
+		"/tmp/subl stdin 9SDm50.txt",
+		"/Users/craig/.cupboard/projects/teamdigest/lib/front/node_modules/malt/lib/core/models/collection.js",
+		"/Users/craig/.cupboard/projects/teamdigest/node_modules/spice.io/beans/auth.profile/index.js",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/tmp/subl stdin qOmgFT.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Updating",
+			"_maxWorkers",
+			".job",
+			"_run(",
+			"_run",
+			"._run",
+			"_nextJob",
+			"_runningJobs",
+			"job",
+			"_nextJob",
+			"_locked",
+			"ops.channel",
+			"_nextRunn",
+			"_nextRunng",
+			"_onDone",
+			"._onDisconnect",
+			"_runningJobs",
+			"_worker.",
+			"._worker.",
+			"removeJob",
+			".running",
+			"_finished",
+			"_ops.",
+			"ops.",
+			"channel",
+			"_start",
+			"console.",
+			".name",
+			"ops",
+			"_getWorker",
+			"new Worker",
+			"_nextRunner",
+			"countQueued",
+			"countQueued'",
+			"\n		this.countQueued();  ",
+			"countQueued",
+			"_runningJobs",
+			"_numJob",
+			"_numJjobs",
+			"_onResponse",
+			"_callback",
+			"pop(",
+			"console.log",
+			"this",
+			"_onDisconnect",
+			"_onDone",
+			"onDisconnect",
+			"callback",
+			"console.l",
+			"_running",
+			"_callback",
+			"_onDisconnect",
+			".run",
+			"_callback",
+			".run",
+			"_callback",
+			"log",
+			"locking",
+			"Discon",
+			"responded",
+			"add/next/promotion",
+			".options",
+			"channel",
+			"_id",
+			"pulling ",
+			"console.l",
+			"_locked",
+			"_sleeping",
+			"sleep",
+			"worker.",
+			"worker._",
+			"worker ",
+			"_onDisconnect",
+			"failed",
+			"1 jobs",
+			"_killTimeout",
+			"pull(",
+			"_sleep",
+			"sleeping",
+			"_onResponse",
+			"sendAt",
+			"thyme/worker",
+			"beanpole",
+			"pull.thyme",
+			"queued",
+			"addJob",
+			"conso",
+			".update",
+			"_id",
+			"_resetStaleTasks",
+			"_runningJob",
+			"_sleep",
+			"_callback",
+			"finished = ",
+			"Disconn",
+			"stopping",
+			"_running",
+			"pulling",
+			"lockTTL",
+			"_sleepTimeout",
+			"sleeping",
+			"_resetStaleTasks",
+			"sendA",
+			"insert",
+			"sleeping",
+			"lockTTL",
+			"lock",
+			"kill",
+			"alert",
+			"G",
+			"data()",
+			"#save-schedule-button",
+			"Schedule",
+			"CreationEndView",
+			"Recipient",
+			"save-schedule-button",
+			"recipie",
+			"create/d",
+			"CreateDigestView",
+			"cron",
+			"require(\"cron",
+			"cron.js",
+			"_hasAll",
+			"_wcOrAll",
+			"toggleStates",
+			"217de5",
+			"background",
+			"background-color"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/tmp/subl stdin r9FOHp.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/plugin.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"figabst",
+				"node_modules/fig/lib/core/views/abstract.js"
+			],
+			[
+				"figmode",
+				"node_modules/fig/lib/core/views/model.js"
+			],
+			[
+				"figtemplat",
+				"node_modules/fig/lib/core/views/template.js"
+			],
+			[
+				"figmodel",
+				"node_modules/fig/lib/core/views/model.js"
+			],
+			[
+				"figabs",
+				"node_modules/fig/lib/core/views/abstract.js"
+			],
+			[
+				"figviews/",
+				"node_modules/fig/lib/core/views/concrete.js"
+			],
+			[
+				"figviews",
+				"node_modules/fig/lib/core/views/model.js"
+			],
+			[
+				"saveddelegat",
+				"node_modules/spice.io/beans/groups.part.saved.core/delegates.js"
+			],
+			[
+				"spicesavedinde",
+				"node_modules/spice.io/beans/groups.part.saved.subscription.email/index.js"
+			],
+			[
+				"saveddelega",
+				"node_modules/spice.io/beans/groups.part.saved.core/delegates.js"
+			],
+			[
+				"spice.iosaved",
+				"node_modules/spice.io/beans/groups.part.saved.core/index.js"
+			],
+			[
+				"spice.iosaveddele",
+				"node_modules/spice.io/beans/groups.part.saved.core/delegates.js"
+			],
+			[
+				"spice.iosavedind",
+				"node_modules/spice.io/beans/groups.part.saved.core/index.js"
+			],
+			[
+				"bean.http",
+				"lib/front/node_modules/bean.http/plugin/beans/http.gateway/index.js"
+			],
+			[
+				"maltconcr",
+				"lib/front/node_modules/malt/lib/core/models/concrete.js"
+			],
+			[
+				"maltabst",
+				"lib/front/node_modules/malt/lib/core/models/abstract.js"
+			],
+			[
+				"maltremot",
+				"lib/front/node_modules/malt/lib/core/models/remote.js"
+			],
+			[
+				"bean.http.gat",
+				"lib/front/node_modules/bean.http/plugin/beans/http.gateway/index.js"
+			],
+			[
+				"bean.httpgateway",
+				"lib/front/node_modules/bean.http/plugin/beans/http.gateway/index.js"
+			],
+			[
+				"spice.iosaveditem",
+				"node_modules/spice.io/beans/groups.part.saved.subscription.email/index.js"
+			],
+			[
+				"connect.core/",
+				"node_modules/leche.spice.io/shared/beans/connect.core/index.js"
+			],
+			[
+				"maltmodels",
+				"lib/front/node_modules/malt/lib/core/models/item.js"
+			],
+			[
+				"",
+				"node_modules/leche.spice.io/shared/beans/connect.core/index.js"
+			],
+			[
+				"malt/models",
+				"lib/front/node_modules/malt/lib/core/models/concrete.js"
+			],
+			[
+				"maltabs",
+				"lib/front/node_modules/malt/lib/core/models/abstract.js"
+			],
+			[
+				"maltremo",
+				"lib/front/node_modules/malt/lib/core/models/remote.js"
+			],
+			[
+				"maltcolle",
+				"lib/front/node_modules/malt/lib/core/models/collection.js"
+			],
+			[
+				"maltremote",
+				"lib/front/node_modules/malt/lib/core/models/remote.js"
+			],
+			[
+				"leche.spice.iomodel",
+				"node_modules/leche.spice.io/shared/beans/spice.io.core/models.js"
+			],
+			[
+				"spice.ioauthprofileind",
+				"node_modules/spice.io/beans/auth.profile/index.js"
+			],
+			[
+				"spice.iogroups",
+				"node_modules/spice.io/beans/groups.core/index.js"
+			],
+			[
+				"leche.spice.iomode",
+				"node_modules/leche.spice.io/shared/beans/spice.io.core/models.js"
+			],
+			[
+				"leche.spice.ioconne",
+				"node_modules/leche.spice.io/shared/beans/connect.core/index.js"
+			],
+			[
+				"leche.spice.io/beanconnect",
+				"node_modules/leche.spice.io/shared/beans/connect.core/index.js"
+			],
+			[
+				"lechespice.iomodel",
+				"node_modules/leche.spice.io/shared/beans/spice.io.core/models.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}

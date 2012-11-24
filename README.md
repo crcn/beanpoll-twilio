@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/crcn/beanpoll-twilio.png)](http://travis-ci.org/crcn/beanpoll-twilio)
 
 ## Example
 
